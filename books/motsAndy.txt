@@ -1,0 +1,16 @@
+chat
+chien
+vache
+cochon
+chat
+colombe
+vache
+thon
+canard
+merle
+autruche
+koala
+colombe
+thon
+loup
+
